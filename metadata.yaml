@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '8230'
     url: http://www.gutenberg.org/2009/agents/8230
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18754#Ohio-Biological-Survey-Bull.-10-Vol.-11-No.-6The-Ascomycetes-of-Ohio-IV-and-V
 gutenberg_bookshelf: Biology
 gutenberg_issued: '2006-07-04'
 gutenberg_type: Text
